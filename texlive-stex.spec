@@ -1,7 +1,7 @@
-# revision 25792
+# revision 29803
 # category Package
 # catalog-ctan /macros/latex/contrib/stex
-# catalog-date 2012-01-28 13:25:34 +0100
+# catalog-date 2012-03-31 11:15:31 +0200
 # catalog-license lppl
 # catalog-version 1.4
 Name:		texlive-stex
