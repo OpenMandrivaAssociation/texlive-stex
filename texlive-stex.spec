@@ -6,7 +6,7 @@
 # catalog-version 1.4
 Name:		texlive-stex
 Version:	1.4
-Release:	6
+Release:	7
 Summary:	An Infrastructure for Semantic Preloading of LaTeX Documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stex
