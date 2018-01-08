@@ -1,5 +1,5 @@
 Name:		texlive-stex
-Version:	20160407
+Version:	20170414
 Release:	1
 Summary:	An Infrastructure for Semantic Preloading of LaTeX Documents
 Group:		Publishing
