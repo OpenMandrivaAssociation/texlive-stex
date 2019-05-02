@@ -1,6 +1,6 @@
 Name:		texlive-stex
-Version:	20180303
-Release:	2
+Version:	20190321
+Release:	1
 Summary:	An Infrastructure for Semantic Preloading of LaTeX Documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stex
