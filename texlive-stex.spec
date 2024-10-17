@@ -3,7 +3,7 @@ Version:	68569
 Release:	1
 Summary:	An Infrastructure for Semantic Preloading of LaTeX Documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/stex
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/stex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/stex.doc.r%{version}.tar.xz
